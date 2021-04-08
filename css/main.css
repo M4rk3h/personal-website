@@ -20,7 +20,7 @@ img {
 }
 
 body#bg-img {
-  background: url(../img/bg.jpg);
+  background: url(../bg.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
