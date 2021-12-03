@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+h1:hover{
+    color: yellow;
+}
+
+img:hover{ 
+    border-color: yellow;
+}
+
+img {
+    border-radius: 50%;
+    border-color: #ffffff;
+    border-style: solid;
+    width: 210px;
+}
+
+img:hover{ 
+    border-color: yellow;
+}
+
+ 
+.icons a {
+    padding: 1em;
+    color: #ffffff;
+}
+  
+.icons a:hover {
+    color: yellow;
+}
